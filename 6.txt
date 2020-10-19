@@ -1,0 +1,8 @@
+a. 0x124dfffe = beq $s2, $t5, 0xFFFE
+b. 0x02778020 = add $s0, $s3, $s7
+c. 0x20072143 = addi $a3, $0, 0x2143
+d. 0x8c100020 = lw $s0, 0x0020($0)
+e. 0x014fa022 = sub $s4, $t2, $t7
+f. 0xac100014 = sw $s0, 0x0014($0)
+g. 0x000d5080 = sll $t2, $t5, 2
+h. 0x22b50004 = addi $s5, $s5, 0x0004
